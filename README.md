@@ -1,1 +1,1 @@
-# EcommerceApp
+# EcomarceApp
